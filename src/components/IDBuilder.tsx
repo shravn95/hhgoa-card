@@ -104,7 +104,6 @@ const DEEP_GREEN = "#063e24";
 const ROLE_TEXT = "#b7d2aa";
 const GOLD = "#c9a84c";
 const CREAM = "#f7efdf";
-const PINK = "#e6317a";
 
 // ============================================================
 // MOTION
